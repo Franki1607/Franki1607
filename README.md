@@ -1,8 +1,8 @@
 ![Backend Developper Picture](image.jpg)
 
-# Hi there 👋
+### Hi there 👋
 
-# Welcome to my GitHub profile 🎉
+### Welcome to my GitHub profile 🎉
 
 I am a passionate and versatile full-stack developer 💻
 
@@ -12,16 +12,16 @@ You will find here my personal and professional projects, so feel free to explor
 
 If you want to talk about projects or just chat over a virtual coffee 🍵, don't hesitate to reach out to me!
 
-<!--🚧 Under development: 
+<!--**🚧 Under development: **
 - Project X 
 - Project Y
 -->
 
-🛠 Technologies I use:
-- Languages: Dart, C, Java, Java Swing, PHP, Python, JavaScript, TypeScript, HTML, CSS, Arduino 
-- Frameworks: Flutter, Laravel, Symfony, Django, Angular, NodeJs,  Express.js
-- Databases: MongoDB, PostgreSQL, MySQL, SQLite
-- Tools: Git, VSCode, PyCharm, Android Studio, Docker, Poetry
+**🛠 Technologies I use:**
+- **Languages:** Dart, C, Java, Java Swing, PHP, Python, JavaScript, TypeScript, HTML, CSS, Arduino 
+- **Frameworks:** Flutter, Laravel, Symfony, Django, Angular, NodeJs,  Express.js
+- **Databases:** MongoDB, PostgreSQL, MySQL, SQLite
+- **Tools:** Git, VSCode, PyCharm, Android Studio, Docker, Poetry
 
 <!--
 **Franki1607/Franki1607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
