@@ -1,3 +1,5 @@
+![Backend Developper Picture](image.png)
+
 # Hi there 👋
 
 # Welcome to my GitHub profile 🎉
