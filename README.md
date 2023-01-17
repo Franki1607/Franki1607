@@ -1,4 +1,4 @@
-![Backend Developper Picture](image.png)
+![Backend Developper Picture](image.jpg)
 
 # Hi there 👋
 
