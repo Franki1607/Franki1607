@@ -1,13 +1,12 @@
 ![Backend Developper Picture](image.jpg)
 
-### Hi there 👋
-
-### Welcome to my GitHub profile 🎉
 <h1>
-I'm <b>Franklin AHONON (Franki1607)</b>
+Hi 👋, I'm <strong>Franklin AHONON (Franki1607)</strong>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8400&random=false&width=435&lines=Full+Stack+Developer;Passionate+And+Versatile+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8400&random=false&width=435&lines=Full+Stack+Developer;Passionate+And+Versatile+Developer)](#)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=franki1607&label=Profile%20views&color=FF8400&style=flat" alt="Franklin AHONON view" /> </p>
 
 I have worked with several programming languages such as C, Java, PHP, Python, and JavaScript 🔥 and I have also experimented with frameworks such as Laravel, Symfony, Django and Angular 🚀
 
