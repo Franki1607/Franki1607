@@ -8,9 +8,9 @@ Hi 👋, <br/> I'm <strong>Franklin AHONON (Franki1607)</strong>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franki1607&label=Profile%20views&color=FF8400&style=flat" alt="Franklin AHONON view" /> </p>
 
-## Tech Stack
+## Tech Stack 💻
 
-##### Languages
+##### Languages 👨‍💻
 
 <div style="display: flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
@@ -25,7 +25,7 @@ Hi 👋, <br/> I'm <strong>Franklin AHONON (Franki1607)</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50px" />
 </div>
 
-##### Databases
+##### Databases 💾
 
 <div style="display: flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50px"/>
@@ -34,7 +34,7 @@ Hi 👋, <br/> I'm <strong>Franklin AHONON (Franki1607)</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50px" />
 </div>
 
-##### Frameworks and Libraries
+##### Frameworks and Libraries 📦
 
 <div style="display: flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="50px" />
@@ -49,7 +49,7 @@ Hi 👋, <br/> I'm <strong>Franklin AHONON (Franki1607)</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50px" />
 </div>
 
-##### Tools
+##### Tools 🔧
 
 <div style="display: flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50px" />
@@ -63,13 +63,12 @@ Hi 👋, <br/> I'm <strong>Franklin AHONON (Franki1607)</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" / />
 </div>
 
-## Trophies 🏆:
-https://github-profile-trophy.vercel.app/?username=franki1607&no-frame=true&margin-w=15&margin-h=15
-<p align='center'>
+## Trophies 🏆
+<p>
 <img src="https://github-profile-trophy.vercel.app/?username=franki1607&no-frame=true">
 </p>
 
-## GitHub Stats
+## GitHub Stats 📈
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franki1607&theme=material-palenight&layout=compact)](#)
 
