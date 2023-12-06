@@ -10,7 +10,7 @@ Hi 👋, <br/> I'm <strong>Franklin AHONON (Franki1607)</strong>
 
 ## Tech Stack 💻
 
-##### Languages 👨‍💻
+### Languages 👨‍💻
 
 <div style="display: flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
@@ -25,7 +25,7 @@ Hi 👋, <br/> I'm <strong>Franklin AHONON (Franki1607)</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50px" />
 </div>
 
-##### Databases 💾
+### Databases 💾
 
 <div style="display: flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50px"/>
@@ -34,7 +34,7 @@ Hi 👋, <br/> I'm <strong>Franklin AHONON (Franki1607)</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50px" />
 </div>
 
-##### Frameworks and Libraries 📦
+### Frameworks and Libraries 📦
 
 <div style="display: flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="50px" />
@@ -49,7 +49,7 @@ Hi 👋, <br/> I'm <strong>Franklin AHONON (Franki1607)</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="50px" />
 </div>
 
-##### Tools 🔧
+### Tools 🔧
 
 <div style="display: flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50px" />
