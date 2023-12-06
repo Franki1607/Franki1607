@@ -63,6 +63,17 @@ Hi 👋, <br/> I'm <strong>Franklin AHONON (Franki1607)</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" / />
 </div>
 
+## GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franki1607&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Franki160702&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Franki1607&theme=tokyonight" />
+</a>
+
 <!--I have worked with several programming languages such as C, Java, PHP, Python, and JavaScript 🔥 and I have also experimented with frameworks such as Laravel, Symfony, Django and Angular 🚀
 
 You will find here my personal and professional projects, so feel free to explore them 🔍
@@ -72,13 +83,15 @@ If you want to talk about projects or just chat over a virtual coffee 🍵, don'
 <!--**🚧 Under development: **
 - Project X 
 - Project Y
--->
+
 
 **🛠 Technologies I use:**
 - **Languages:** Dart, C, Java, Java Swing, PHP, Python, JavaScript, TypeScript, HTML, CSS, Arduino 
 - **Frameworks:** Flutter, Laravel, Symfony, Django, Angular, NodeJs,  Express.js
 - **Databases:** MongoDB, PostgreSQL, MySQL, SQLite
 - **Tools:** Git, VSCode, PyCharm, Android Studio, Docker, Poetry
+
+-->
 
 <!--
 **Franki1607/Franki1607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
