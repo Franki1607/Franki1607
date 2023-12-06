@@ -68,10 +68,10 @@ Hi 👋, <br/> I'm <strong>Franklin AHONON (Franki1607)</strong>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franki1607&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=Franki160702&show_icons=true&theme=tokyonight" />
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=franki160702&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Franki1607&theme=tokyonight" />
+  <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=franki1607" />
 </a>
 
 <!--I have worked with several programming languages such as C, Java, PHP, Python, and JavaScript 🔥 and I have also experimented with frameworks such as Laravel, Symfony, Django and Angular 🚀
