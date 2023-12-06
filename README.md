@@ -68,6 +68,24 @@ Hi 👋, <br/> I'm <strong>Franklin AHONON (Franki1607)</strong>
 <img src="https://github-profile-trophy.vercel.app/?username=franki1607&no-frame=true">
 </p>
 
+### Social Media 🔗 :
+<p>
+<a href="mailto:mignonfranklincamel@icloud.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/fraklin.camel16" target="_blank">
+<img src="https://img.shields.io/badge/chinmay29hub-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/franklin-camel-ahonon-18a4a5229/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+<a href="mailto:chinmaysonawane57@protonmail.com" target="_blank">
+<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.reddit.com/user/chinmay29hub" target="_blank">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCfc0iDwzZi7CLKIBWBCJNWw">
+<img src="https://img.shields.io/badge/chinmay29hub-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white">
+</a>&nbsp;&nbsp;
+  </p>
+
 ## GitHub Stats 📈
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franki1607&theme=material-palenight&layout=compact)](#)
