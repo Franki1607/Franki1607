@@ -68,7 +68,7 @@ Hi 👋, <br/> I'm <strong>Franklin AHONON (Franki1607)</strong>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franki1607&theme=material-palenight&layout=compact)](#)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=franki1607&show_icons=true" />
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=franki1607&show_icons=true&title_color=ff8400&text_colorff8400&icon_colorff8400&border_colorff8400" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=franki1607" />
