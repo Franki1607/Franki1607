@@ -63,6 +63,12 @@ Hi 👋, <br/> I'm <strong>Franklin AHONON (Franki1607)</strong>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" / />
 </div>
 
+## Trophies 🏆:
+https://github-profile-trophy.vercel.app/?username=franki1607&no-frame=true&margin-w=15&margin-h=15
+<p align='center'>
+<img src="https://github-profile-trophy.vercel.app/?username=franki1607&no-frame=true">
+</p>
+
 ## GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franki1607&theme=material-palenight&layout=compact)](#)
