@@ -64,11 +64,13 @@ Hi 👋, <br/> I'm <strong>Franklin AHONON (Franki1607)</strong>
 </div>
 
 ## Trophies 🏆
+
 <p>
 <img src="https://github-profile-trophy.vercel.app/?username=franki1607&no-frame=true">
 </p>
 
-### Social Media 🔗 :
+## Social Media 🔗 :
+
 <p>
 <a href="mailto:mignonfranklincamel@icloud.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
