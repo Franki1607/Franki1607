@@ -2,9 +2,15 @@
 
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer)](https://git.io/typing-svg)
+
 ### Welcome to my GitHub profile 🎉
 
 I am a passionate and versatile full-stack developer 💻
+
+I'm Franklin AHONON (Franki1607)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8400&random=false&width=435&lines=Full+Stack+Developer;Passionate+And+Versatile+Developer)](https://git.io/typing-svg)
 
 I have worked with several programming languages such as C, Java, PHP, Python, and JavaScript 🔥 and I have also experimented with frameworks such as Laravel, Symfony, Django and Angular 🚀
 
